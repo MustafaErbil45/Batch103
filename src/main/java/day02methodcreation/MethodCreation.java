@@ -33,7 +33,5 @@ public class MethodCreation {
         return (a+b) * c;
     }
 
-
-
 }
 
